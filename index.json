@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-reportlog",
+  "versions": [
+    {
+      "commit": "cd0788f2c81d8f235ce4b2be2df8afa844a2bcf8",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:31:10.873976+00:00"
+    }
+  ]
+}
